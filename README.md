@@ -10,21 +10,21 @@ To download our project, click the green "Code" button, copy the link, and git c
 
 ### YELLOW SPACESHIP ###
 w = (Up)  
-s = (Down)
-a = (Left)
-d = (Right)
-e = (Shoot)
+s = (Down)  
+a = (Left)  
+d = (Right)  
+e = (Shoot)  
 
 
 ### RED SPACESHIP ###
-Up_ Arrow_Key = (Up)
-Down_ Arrow_Key = (Down)
-Left_ Arrow_Key = (Left)
-Right_ Arrow_Key = (Right)
-/ (Forward-Slash) = (Shoot)
+Up_ Arrow_Key = (Up)  
+Down_ Arrow_Key = (Down)  
+Left_ Arrow_Key = (Left)  
+Right_ Arrow_Key = (Right)  
+/ (Forward-Slash) = (Shoot)  
 
 
 ## Credits:
-Tanav Malhotra,
-Richard He, and
+Tanav Malhotra
+Richard He  
 Rudra Chopra
