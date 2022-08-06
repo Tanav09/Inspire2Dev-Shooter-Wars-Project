@@ -9,7 +9,7 @@ To download our project, click the green "Code" button, copy the link, and git c
 ## Controls:
 
 ### YELLOW SPACESHIP ###
-w = (Up)#
+w = (Up)  
 s = (Down)
 a = (Left)
 d = (Right)
