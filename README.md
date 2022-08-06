@@ -9,19 +9,19 @@ To download our project, click the green "Code" button, copy the link, and git c
 ## Controls:
 
 ### YELLOW SPACESHIP ###
-w = (Up)
-s = (Down)
-a = (Left)
-d = (Right)
-e = (Shoot)
+w = (Up)\n
+s = (Down)\n
+a = (Left)\n
+d = (Right)\n
+e = (Shoot)\n
 
 
 ### RED SPACESHIP ###
-Up_ Arrow_Key = (Up)
-Down_ Arrow_Key = (Down)
-Left_ Arrow_Key = (Left)
-Right_ Arrow_Key = (Right)
-/ (Forward-Slash) = (Shoot)
+Up_ Arrow_Key = (Up)\n
+Down_ Arrow_Key = (Down)\n
+Left_ Arrow_Key = (Left)\n
+Right_ Arrow_Key = (Right)\n
+/ (Forward-Slash) = (Shoot)\n
 
 
 ## Credits:
