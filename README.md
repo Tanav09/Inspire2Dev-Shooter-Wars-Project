@@ -24,7 +24,7 @@ Right_ Arrow_Key = (Right)
 / (Forward-Slash) = (Shoot)
 
 
-#### Credits:
+### Credits:
 Tanav Malhotra
 Richard He
 Rudra Chopra
