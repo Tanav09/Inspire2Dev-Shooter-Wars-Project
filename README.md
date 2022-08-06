@@ -25,6 +25,6 @@ Right_ Arrow_Key = (Right)
 
 
 ## Credits:
-Tanav Malhotra
+Tanav Malhotra  
 Richard He  
 Rudra Chopra
