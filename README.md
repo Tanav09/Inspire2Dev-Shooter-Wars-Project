@@ -6,7 +6,7 @@ To download our project, click the green "Code" button, copy the link, and git c
 
 
 
-Here are the controls:
+####Here are the controls:
 
 ### YELLOW SPACESHIP ###
 w = (Up)
