@@ -8,7 +8,7 @@ To download our project, click the green "Code" button, copy the link, and git c
 
 ## Controls:
 
-### YELLOW SPACESHIP ###
+### YELLOW SPACESHIP (Left)###
 w = (Up)  
 s = (Down)  
 a = (Left)  
@@ -16,7 +16,7 @@ d = (Right)
 e = (Shoot)  
 
 
-### RED SPACESHIP ###
+### RED SPACESHIP (Right)###
 Up_ Arrow_Key = (Up)  
 Down_ Arrow_Key = (Down)  
 Left_ Arrow_Key = (Left)  
